@@ -1,6 +1,8 @@
 Reddit Data Pipeline
 A complete data pipeline solution to extract, transform, and load (ETL) Reddit data into a Redshift data warehouse. This project demonstrates end-to-end data engineering using modern cloud and orchestration tools.
 
+RedditDataEng.png
+
 Overview
 This data pipeline enables:
 Extraction: Pull Reddit posts and comments using the Reddit API.
